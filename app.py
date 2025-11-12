@@ -1,7 +1,3 @@
-Blink_MCPMock_app.py
-
-
-
 """
 Flask + MCP (OpenAI Model Context Protocol) — compliant skeleton
 Requires: mcp==1.21.0, flask, gunicorn (for deploy)
